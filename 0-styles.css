@@ -11,11 +11,11 @@ ul {
 li {
     padding-top: 1.5rem;
     height: 34rem;
-    width: 21.5rem;
+    width: 23rem;
     font-weight: bold;
     font-size: 3rem;
     text-align: center;
-    border: 2px solid #8D8D8D;
+    border: 2.5px solid #8D8D8D;
     border-radius: 0.5rem;
     background-color: #F7F7F7;
 }
